@@ -163,7 +163,8 @@ grid-template-columns:1fr;
 <h1>Engineering the next generation of <span>search visibility</span></h1>
 
 <p>
-Technical SEO Consultant specializing in GEO, AI SEO, Content Strategy,
+https://gorgeous-monstera-4977a1.netlify.app/portrait.jpg
+    Technical SEO Consultant specializing in GEO, AI SEO, Content Strategy,
 Shopify SEO, WordPress SEO, Local SEO and Organic Growth.
 Helping businesses dominate both traditional search and AI-powered search.
 </p>
